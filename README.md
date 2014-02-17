@@ -76,7 +76,7 @@ Or install it yourself as:
 
 ## Todo
 - Improve poor English.
-- Refacotring.
+- Refactoring.
 - Should reconsider the raison d'etre of join, pair, with.
   (They are still exist for historical reasons.)
 

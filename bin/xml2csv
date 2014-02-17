@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'xml2csv'
+
+XML2CSV.xml2csv if $0 == __FILE__
